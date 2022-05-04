@@ -1,5 +1,5 @@
-Reversi hra v Jave
-hra je proti počítaču
-pokladáš krúžky ktoré premieňajú nepriateľské krúžku na tvoje
-hra končí keď už neni žiaden možný ťah
-vyhráva hráč, ktorý má viac krúžkov
+Reversi hra v Jave.
+Hra je proti počítaču.
+Pokladáš krúžky ktoré premieňajú nepriateľské krúžku na tvoje.
+Hra končí keď už neni žiaden možný ťah.
+Vyhráva hráč, ktorý má viac krúžkov.
